@@ -11,7 +11,7 @@
     "javascript",
     "base"
   ],
-  "author": "Shyam Mahanta",
+  "author": "tapaScript | learn@tapascript.io",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^9.1.2",
