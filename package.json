@@ -4,15 +4,17 @@
   "description": "javascript setup",
   "main": "main.js",
   "scripts": {
-    "start": "serve pages -p 3000"
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [
     "javascript",
     "base"
   ],
-  "author": "Shyam Mahanta",
+  "author": "tapaScript | learn@tapascript.io",
   "license": "MIT",
-  "devDependencies": {
-    "serve": "^14.2.4"
+  "dependencies": {
+    "vite": "^6.3.5"
   }
 }
